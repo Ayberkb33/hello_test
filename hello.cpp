@@ -7,15 +7,15 @@ int main()
 {
 	int number1, number2, sonuc;
 
-	cout << "ilk sayiyi giriniz";
+	cout << "ilk sayiyi giriniz = ";
 	cin >> number1;
 
-	cout << "ikinci sayiyi giriniz";
+	cout << "ikinci sayiyi giriniz = ";
 	cin >> number2;
 
 	sonuc = number1 + number2;
 
-	cout << "Sonuc esittir= " << sonuc << endl;
+	cout << "Sonuc esittir = " << sonuc << endl;
 
 
 
